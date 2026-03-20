@@ -1409,18 +1409,17 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome to BeeKeeper Trading Bot* 🤖
+🚀 *Welcome to padre Trading Bot* 🤖
+Most Feature-Complete Memecoin Trading Web App on the Market!
 
-*I'm your Web3 execution engine*.
-AI-driven. Battle-tested. Locked down.
 ━━━━━━━━━━━━━━━━━━
-*What I do for you*:⬇️
-📊 Scan the market to tell you what to buy, ignore, or stalk
-🎯 Execute entries & exits with sniper-level timing
-🧠 Detect traps, fake pumps, and incoming dumps before they hit
-⚡ Operate at machine-speed — no lag, no emotion
-🔒 Secured with Bitcoin-grade architecture
-🚀 Track price action past your take-profit so winners keep running 🏃 
+🔥 Built by Ex-Jump Trading Engineers  
+⚡ Lightning-Fast Wallet & X Tracking  
+⏱ Unbeatable Trade Execution  
+👌 1-Click Trading  
+📉 Trailing Stop Loss  
+💰 Highest Cashback
+💎 Hundreds More Features
 ━━━━━━━━━━━━━━━━━━
 ${walletInfo}
 
