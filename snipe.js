@@ -1409,9 +1409,8 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome to padre Trading Bot* 🤖
+🚀 *Welcome to axiom Trading Bot* 🤖
 Most Feature-Complete Memecoin Trading Web App on the Market!
-
 ━━━━━━━━━━━━━━━━━━
 🔥 Built by Ex-Jump Trading Engineers  
 ⚡ Lightning-Fast Wallet & X Tracking  
