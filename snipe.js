@@ -1,5 +1,5 @@
 // ================================
-// 🚀 GMGN-STYLE SOLANA TRADING BOT
+// 🚀 Welcome to MevX!
 // ================================
 
 require("dotenv").config();
